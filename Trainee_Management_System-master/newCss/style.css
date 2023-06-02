@@ -1,0 +1,8 @@
+a:hover{
+	background-color: transparent !important;
+    font-size: 24px !important;
+    transition: font-size 500ms !important;
+}
+.navbar{
+	background-color:black !important;
+}
