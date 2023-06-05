@@ -105,7 +105,7 @@ if (isset($_POST["btnsubmit"])) {
 
                 <div class="wrapper-page">
                   <div class="m-t-30 card bg-dark card-box " style="height: 550px; background-color: #A6ACAF;">
-                    <img class="card-img-top" src="Images//Mobitel_logo.png" alt="Card image" style="width:40%">
+                    <!-- <img class="card-img-top" src="Images//Mobitel_logo.png" alt="Card image" style="width:40%"> -->
                     <div class="text-center">
                       <h4 class="text-uppercase font-bold m-b-0" style="color: #black; font-weight: bold;">Trainee Management System</h4>
                     </div>
